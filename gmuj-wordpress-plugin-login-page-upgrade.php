@@ -2,6 +2,7 @@
 
 /**
  * Plugin Name:       Mason WordPress: Login Page Upgrade
+ * Plugin URI:        https://github.com/jmacario-gmu/gmuj-wordpress-plugin-login-page-upgrade
  * Description:       Mason WordPress plugin which implements improvements to the WordPress login page.
  * Version:           0.0.1
  */
