@@ -4,7 +4,7 @@
 body.login {background-image:linear-gradient(to right, #6c9 , #ff9);}
 
 /* Mason WordPress theme logo in place of WordPress logo */
-body.login div#login h1 a {background-image: url('/wp-content/plugins/gmuj-mason-wordpress-plugin-login-page-upgrade/logoMasonWordPressTheme.png');}
+body.login div#login h1 a {background-image: url('logoMasonWordPressTheme.png');}
 
 /* Other modifications */
 div#login {text-align:center;}
