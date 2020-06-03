@@ -1,11 +1,15 @@
-/* Custom Login Styles */
+/**
+ * Summary: Stylesheet to implement the Mason WordPress platform login page modifications
+ * Last modified: 2020-06-03
+ * Modified by: Jan Macario
+ */
 
-/* Mason colors */
-body.login {background-image:linear-gradient(to right, #6c9 , #ff9);}
+/* Set login page background to Mason brand colors */
+body.login { background-image:linear-gradient(to right, #6c9 , #ff9); }
 
-/* Mason WordPress theme logo in place of WordPress logo */
-body.login div#login h1 a {background-image: url('logoMasonWordPressTheme.png');}
+/* Replace default Wordpress logo on Wordpress login page with Mason WordPress platform logo */
+body.login div#login h1 a { background-image: url('logoMasonWordPressTheme.png'); }
 
-/* Other modifications */
-div#login {text-align:center;}
+/* Other minor style modifications */
+div#login { text-align:center; }
 body.login div#login form#loginform { border-radius: 10px; }
