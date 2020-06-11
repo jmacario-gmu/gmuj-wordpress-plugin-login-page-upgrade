@@ -16,4 +16,8 @@ This plugin makes several changes to the Wordpress login page:
 
 * Modifies the default login error messages to provide less detail about the login error 
 
-* Removes the login form ‘shake’ effect on error 
+* Removes the login form ‘shake’ effect on error
+
+Notes:
+
+This plugin is now deprecated as it's functionality was moved into the Mason WordPress theme.
